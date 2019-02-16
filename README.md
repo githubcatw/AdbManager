@@ -7,6 +7,9 @@ Did you want to create an app that installs a mobile app? An app that flashes so
 
 It's easy to use!
 
+_____________________
+Download from the [releases page](https://github.com/githubcatw/AdbManager/releases), or from [NuGet](https://www.nuget.org/packages/GoodNet.AdbManager/).
+
 For scripting reference, tutorials and other info, visit the [wiki](https://github.com/githubcatw/AdbManager/wiki).
 
 If you have a problem, write an [issue](https://github.com/githubcatw/AdbManager/issues).
