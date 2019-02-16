@@ -1,5 +1,5 @@
 # AdbManager
-![https://github.com/githubcatw/AdbManager/blob/master/Images/sharpdroid.png](Logo)
+![Logo](https://github.com/githubcatw/AdbManager/blob/master/Images/sdmini.png)
 
 A package allowing ADB and Fastboot operations from C#.
 
@@ -7,6 +7,6 @@ Did you want to create an app that installs a mobile app? An app that flashes so
 
 It's easy to use!
 
-For scripting reference, tutorials and other info, visit the [https://github.com/githubcatw/AdbManager/wiki](wiki).
+For scripting reference, tutorials and other info, visit the [wiki](https://github.com/githubcatw/AdbManager/wiki).
 
-If you have a problem, write an [https://github.com/githubcatw/AdbManager/issues](issue).
+If you have a problem, write an [issue](https://github.com/githubcatw/AdbManager/issues).
