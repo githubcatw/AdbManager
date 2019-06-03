@@ -1,1 +1,2 @@
+# The sequel, [ADBSharp](https://github.com/githubcatw/ADBSharp), is now out!
 > 3.4 You may not use the SDK for any purpose not expressly permitted by the License Agreement.  Except to the extent required by applicable third party licenses, you may not copy (except for backup purposes), modify, adapt, redistribute, decompile, reverse engineer, disassemble, or create derivative works of the SDK or any part of the SDK.
